@@ -10,6 +10,7 @@ My LeetCode solutions, formatted with problem descriptions, complexity analysis,
 |---|---|---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | $O(N)$ | $O(N)$ | [`two_sum.py`](two_sum.py) |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 Hard | $O((m+n) \log(m+n))$ | $O(m+n)$ | [`median_of_two_sorted_arrays.py`](median_of_two_sorted_arrays.py) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | $O(\log_{10}(x))$ | $O(1)$ | [`palindrome_number.py`](palindrome_number.py) |
 
 ---
 
